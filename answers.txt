@@ -1,0 +1,7 @@
+What is the difference between a merge and a rebase?
+If you merge branch A into branch B, then branch B gets a new
+commit containing all the new changes from branch A.
+If you rebase branch B onto branch A, then the entire history of
+branch B gets rewritten to pretend that it started at the head of
+branch A.
+
