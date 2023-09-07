@@ -4,4 +4,7 @@ commit containing all the new changes from branch A.
 If you rebase branch B onto branch A, then the entire history of
 branch B gets rewritten to pretend that it started at the head of
 branch A.
+What is a remote repository?
+A remote repository is where your code is stored so you and
+everyone working on your project can access it online.
 
