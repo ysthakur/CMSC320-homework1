@@ -1,0 +1,4 @@
+What is a remote repository?
+A remote repository is where your code is stored so you and
+everyone working on your project can access it online.
+
